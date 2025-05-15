@@ -1,6 +1,6 @@
 # 🛒 Shopping List Webpage Lab
 
-A simple HTML exercise to build a shopping list webpage with nested lists, internal hyperlinks, and a navigational menu. This ungraded lab demonstrates fundamental HTML skills: lists, anchors, and semantic structure.
+A simple HTML exercise to build a shopping list webpage with nested lists, internal hyperlinks, and a navigational menu. This demonstrates fundamental HTML skills: lists, anchors, and semantic structure.
 
 ---
 
